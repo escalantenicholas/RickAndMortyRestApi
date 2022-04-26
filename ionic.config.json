@@ -1,0 +1,7 @@
+{
+  "name": "RickAndMortyRestApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
